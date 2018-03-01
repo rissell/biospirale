@@ -1,7 +1,7 @@
 <?php
 
 error_reporting(0);
-$emailAddress = 'support@bootstrapart.net';
+$emailAddress = 'paty.riebeling@biospirale.com';
 
 require "class.phpmailer.php";
 
